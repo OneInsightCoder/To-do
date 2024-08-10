@@ -2,6 +2,7 @@
 :root {
 	--primary: #EA40A4;
 	--business: #3a82ee;
+	--study: #3aee70;
 	--personal: var(--primary);
 	--light: #EEE;
 	--grey: #888;
